@@ -16,7 +16,7 @@ Add some animation with `ReactCSSTransitionGroup`.
 
 ### React with Redux
 
-Redux powered Carousel.
+Redux powered carousel.
 
 
 ## Usage
@@ -27,7 +27,7 @@ npm start
 open http://localhost:3000
 ```
 
-Run test: `npm test`.  
+Run test: `npm test`. (For react-with-redux branch)  
 
-Lint: `npm run lint`
+Lint: `npm run lint`.
 
